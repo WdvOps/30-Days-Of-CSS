@@ -1,7 +1,7 @@
 # 30-Days-Of-CSS
 Desafio#30diasDeCSS
 
-###Fui motivado a participar desse desafio e cá estou!
+### Fui motivado a participar desse desafio e cá estou!
 Talvez eu não consiga em dias corridos, mas vou entregar os 30 projetos do #30DiasDeCss!!
 
 - O objetivo desse desafio é aprender e exercitar habilidades no desenvolvimento de aplicações web utilizando as tecnologias acima descritas.
