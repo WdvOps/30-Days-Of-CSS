@@ -11,4 +11,6 @@
 
    ## Como resolvi?
 
+ - Depois de pesquisar muito, e fazer diversas tentativas frustradas, decici assumir o risco de deletar meu repositório local(depois de feito o devido  backup porque não sou bobo!), e após isso, clonei novamente meu repositório. Simples assim!
+
      
