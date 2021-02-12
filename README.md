@@ -11,6 +11,7 @@ Estou estudando uma forma de deixar meus projetos responsivos, então se alguém
 
  # Let's do it's ...now!
 
-- Dia 01 - glassmorphism
-- Dia 02 - Courtain Layer Menu
+    - Dia 01 - glassmorphism
+    - Dia 02 - Courtain Layer Menu
+    - Dia 03 - Glowing Dots Animation Hover
 
