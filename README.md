@@ -15,5 +15,6 @@ Estou estudando uma forma de deixar meus projetos responsivos, então se alguém
   - Dia 02 - Courtain Layer Menu
   - Dia 03 - Glowing Dots Animation Hover
   - Dia 04 - Glowing Neon Light Text Reveal Animation Effects
+  - dia 05 - Navigation Menu With Icons Hover Effects
 
 
